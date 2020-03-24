@@ -20,7 +20,10 @@ h1 .text-primary {
 	line-height: 3rem;
 	color: #e8cf13;
 }
-
+span.text-primary
+	color: #e8cf13;
+	
+	
 
 
 .bg-primary {
